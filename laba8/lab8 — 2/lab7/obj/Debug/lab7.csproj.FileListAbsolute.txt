@@ -1,0 +1,52 @@
+C:\Users\Marisha\Desktop\ОбПро\labu\lab7\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\Marisha\Desktop\ОбПро\labu\lab7\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\Marisha\Desktop\ОбПро\labu\lab7\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\Marisha\Desktop\ОбПро\labu\lab7\lab7\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+C:\Users\Marisha\Desktop\ОбПро\labu\lab7\lab7\lab7\obj\Debug\lab7.Form1.resources
+C:\Users\Marisha\Desktop\ОбПро\labu\lab7\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\Marisha\Desktop\ОбПро\labu\lab7\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.Cache
+C:\Users\Marisha\Desktop\ОбПро\labu\lab7\lab7\lab7\obj\Debug\lab7.exe
+C:\Users\Marisha\Desktop\ОбПро\labu\lab7\lab7\lab7\obj\Debug\lab7.pdb
+D:\УЧЕБА\3 КУРС ПАРИ\1 sem\ОбПро\labu\lab7\lab7\lab7\bin\Debug\lab7.exe.config
+D:\УЧЕБА\3 КУРС ПАРИ\1 sem\ОбПро\labu\lab7\lab7\lab7\obj\Debug\lab7.exe
+D:\УЧЕБА\3 КУРС ПАРИ\1 sem\ОбПро\labu\lab7\lab7\lab7\obj\Debug\lab7.pdb
+C:\Users\Marisha\Desktop\2 сем\ооп\lab8\lab8\lab7\bin\Debug\lab7.exe.config
+C:\Users\Marisha\Desktop\2 сем\ооп\lab8\lab8\lab7\bin\Debug\lab7.exe
+C:\Users\Marisha\Desktop\2 сем\ооп\lab8\lab8\lab7\bin\Debug\lab7.pdb
+C:\Users\Marisha\Desktop\2 сем\ооп\lab8\lab8\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+C:\Users\Marisha\Desktop\2 сем\ооп\lab8\lab8\lab7\obj\Debug\lab7.Form1.resources
+C:\Users\Marisha\Desktop\2 сем\ооп\lab8\lab8\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\Marisha\Desktop\2 сем\ооп\lab8\lab8\lab7\obj\Debug\lab7.csproj.GenerateResource.Cache
+C:\Users\Marisha\Desktop\2 сем\ооп\lab8\lab8\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Marisha\Desktop\2 сем\ооп\lab8\lab8\lab7\obj\Debug\lab7.exe
+C:\Users\Marisha\Desktop\2 сем\ооп\lab8\lab8\lab7\obj\Debug\lab7.pdb
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8\lab7\bin\Debug\lab7.exe.config
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8\lab7\bin\Debug\lab7.exe
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8\lab7\bin\Debug\lab7.pdb
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8\lab7\obj\Debug\lab7.Form1.resources
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8\lab7\obj\Debug\lab7.csproj.GenerateResource.Cache
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8\lab7\obj\Debug\lab7.exe
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8\lab7\obj\Debug\lab7.pdb
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2 — копия\lab7\bin\Debug\lab7.exe.config
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2 — копия\lab7\bin\Debug\lab7.exe
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2 — копия\lab7\bin\Debug\lab7.pdb
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2 — копия\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2 — копия\lab7\obj\Debug\lab7.Form1.resources
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2 — копия\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2 — копия\lab7\obj\Debug\lab7.csproj.GenerateResource.Cache
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2 — копия\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2 — копия\lab7\obj\Debug\lab7.exe
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2 — копия\lab7\obj\Debug\lab7.pdb
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2\lab7\bin\Debug\lab7.exe.config
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2\lab7\bin\Debug\lab7.exe
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2\lab7\bin\Debug\lab7.pdb
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2\lab7\obj\Debug\lab7.Form1.resources
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2\lab7\obj\Debug\lab7.csproj.GenerateResource.Cache
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2\lab7\obj\Debug\lab7.exe
+C:\Users\Marisha\Desktop\2 сем\ооп\лаби\lab8 — 2\lab7\obj\Debug\lab7.pdb

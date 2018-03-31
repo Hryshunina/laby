@@ -12,6 +12,18 @@ namespace snake1
         public int y;
         public char sym;
 
+        public Point() // конструктор (функция)
+        {
+          
+        }
+
+        public Point(int _x, int _y, char _sym) // конструктор2
+        {
+            x = _x;
+            y = _y;
+            sym = _sym;
+        }
+
         public void Draw()
         { 
             Console.SetCursorPosition(x, y);

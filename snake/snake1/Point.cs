@@ -12,7 +12,7 @@ namespace snake1
         public int y;
         public char sym;
 
-        public Point() // конструктор (функция)
+        public Point() // конструктор (функция), метод
         {
           
         }

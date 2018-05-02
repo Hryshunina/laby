@@ -11,3 +11,10 @@ C:\Users\Marisha\Desktop\2 сем\ооп\laby\snake\snake1\obj\Debug\snake1.cspr
 C:\Users\Marisha\Desktop\2 сем\ооп\laby\snake\snake1\obj\Debug\snake1.csproj.CoreCompileInputs.cache
 C:\Users\Marisha\Desktop\2 сем\ооп\laby\snake\snake1\obj\Debug\snake1.exe
 C:\Users\Marisha\Desktop\2 сем\ооп\laby\snake\snake1\obj\Debug\snake1.pdb
+C:\Робота\2 сем\ооп\snake\laby.git\snake\snake1\bin\Debug\snake1.exe.config
+C:\Робота\2 сем\ооп\snake\laby.git\snake\snake1\bin\Debug\snake1.exe
+C:\Робота\2 сем\ооп\snake\laby.git\snake\snake1\bin\Debug\snake1.pdb
+C:\Робота\2 сем\ооп\snake\laby.git\snake\snake1\obj\Debug\snake1.csprojResolveAssemblyReference.cache
+C:\Робота\2 сем\ооп\snake\laby.git\snake\snake1\obj\Debug\snake1.csproj.CoreCompileInputs.cache
+C:\Робота\2 сем\ооп\snake\laby.git\snake\snake1\obj\Debug\snake1.exe
+C:\Робота\2 сем\ооп\snake\laby.git\snake\snake1\obj\Debug\snake1.pdb

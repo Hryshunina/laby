@@ -39,6 +39,12 @@ namespace snake1
 
             while (true)
             {
+                if (Console.KeyAvailable)
+                {
+                    ConsoleKeyInfo key = Console.ReadKey();
+                    snake.HandleKey(key.Key);
+                }
+
                 if (snake.Eat(food)) 
                 {
                     food = foodCreator.CreateFood();
@@ -50,11 +56,7 @@ namespace snake1
                 }
                 Thread.Sleep(100);
 
-                if (Console.KeyAvailable)
-                {
-                    ConsoleKeyInfo key = Console.ReadKey();
-                    snake.HandleKey(key.Key);
-                }
+                
                 snake.Move();
             }
         }

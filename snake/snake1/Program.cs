@@ -33,14 +33,28 @@ namespace snake1
             Snake snake = new Snake(p, 4, Direction.RIGHT);
             snake.Draw();
 
+            FoodCreator foodCreator = new FoodCreator(80, 25, '$');
+            Point food = foodCreator.CreateFood();
+            food.Draw();
+
             while (true)
             {
-                if (Console.KeyAvailable) // направление змейки
+                if (snake.Eat(food)) 
                 {
-                    ConsoleKeyInfo key = Console.ReadKey(); //получение нажатия клавтши из-вне
-                    snake.HandleKey(key.Key); // обраватываем нажатие
+                    food = foodCreator.CreateFood();
+                    food.Draw();
+                }
+                else
+                {
+                    snake.Move();
                 }
                 Thread.Sleep(100);
+
+                if (Console.KeyAvailable)
+                {
+                    ConsoleKeyInfo key = Console.ReadKey();
+                    snake.HandleKey(key.Key);
+                }
                 snake.Move();
             }
         }

@@ -51,6 +51,11 @@ namespace snake1
             }
         }
 
+        public bool IsHit(Point p) // есть ли пересечение змейки с едой
+        {
+            return p.x == this.x && p.y == this.y;
+        }
+
         public void Draw() // метод рисования точки
         { 
             Console.SetCursorPosition(x, y);
